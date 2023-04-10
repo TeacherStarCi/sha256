@@ -1,0 +1,23 @@
+{
+  "name": "sha256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeacherStarCi/sha256.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeacherStarCi/sha256/issues"
+  },
+  "homepage": "https://github.com/TeacherStarCi/sha256#readme",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.30.1",
+    "@cosmjs/encoding": "^0.30.1"
+  }
+}
