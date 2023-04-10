@@ -27,7 +27,6 @@ const compareUtf8
   return true
 }
 
-
 // output
 console.log(compareUtf8(hashedData, hashedRightData))
 console.log(compareUtf8(hashedData, hashedWrongData))
